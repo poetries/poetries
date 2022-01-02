@@ -1,23 +1,13 @@
-### Hi there 👋
-
-<!--
-**poetries/poetries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## profile 
 
 https://profile-summary-for-github.com/user/poetries
+
+## 我是小月🌙
+- 🐧 某上市公司前端攻城狮，编程知识博主
+- 🏡 前端导航：http://nav.poetries.top
+- 🏡 面试指南：http://interview.poetries.top
+- 🌱 干货：公众号『 前端进阶之旅 』
+- 💬 微信：poetries4070
 
 ## contribution
 
