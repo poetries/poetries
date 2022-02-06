@@ -2,7 +2,7 @@
 
 https://profile-summary-for-github.com/user/poetries
 
-## 我是小月🌙
+## 我是poetry🌙
 - 🐧 某上市公司前端攻城狮，编程知识博主
 - 🏡 主页：<a href="http://blog.poetries.top" target="_blank">个人博客</a>
 - ✨ 前端导航：<a href="http://nav.poetries.top" target="_blank">汇总了大量前端编程资源</a>
