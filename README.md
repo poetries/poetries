@@ -9,7 +9,7 @@ https://profile-summary-for-github.com/user/poetries
 - 🔥 面试指南：<a href="http://interview.poetries.top" target="_blank">前端面试找工作的好助手</a>
 - 🌱 干货：公众号『 前端进阶之旅 』
 - 🌈 知乎：@CodePoet
-- 💬 V：poetries4070
+- 💬 V：coderpoetry
 
 
 <img src="https://blog.poetries.top/img/static/images/20211001080240.png" style="width:100px;height:100px">
