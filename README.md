@@ -2,13 +2,13 @@
 
 https://profile-summary-for-github.com/user/poetries
 
-## 我是poetry🌙
+## 我是CodePoet🌙
 - 🐧 某上市公司前端攻城狮，编程知识博主
 - 🏡 主页：<a href="http://blog.poetries.top" target="_blank">个人博客</a>
 - ✨ 前端导航：<a href="http://nav.poetries.top" target="_blank">汇总了大量前端编程资源</a>
 - 🔥 面试指南：<a href="http://interview.poetries.top" target="_blank">前端面试找工作的好助手</a>
 - 🌱 干货：公众号『 前端进阶之旅 』
-- 🌈 知乎：@程序员poetry
+- 🌈 知乎：@CodePoet
 - 💬 V：poetries4070
 
 
