@@ -3,7 +3,7 @@
 https://profile-summary-for-github.com/user/poetries
 
 ## 我是poetry🌙
-- 🐧 某海外公司前端攻城狮，编程知识博主
+- 🐧 某上市公司前端攻城狮，编程知识博主
 - 🏡 主页：<a href="https://blog.poetries.top" target="_blank">个人博客</a>
 - ✨ 前端导航：<a href="https://nav.poetries.top" target="_blank">汇总了大量前端编程资源</a>
 - 🔥 进价学习：<a href="https://interview.poetries.top" target="_blank">前端系统进阶 & 面试指南</a>
