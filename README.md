@@ -5,8 +5,9 @@ https://profile-summary-for-github.com/user/poetries
 ## 我是poetry🌙
 - 🐧 某上市公司前端攻城狮，编程知识博主
 - 🏡 主页：<a href="https://blog.poetries.top" target="_blank">个人博客</a>
-- ✨ 前端导航：<a href="https://nav.poetries.top" target="_blank">汇总了大量前端编程资源</a>
+- ✨ 前端导航：<a href="https://feinterview.poetries.top/nav" target="_blank">汇总了大量前端编程资源</a>
 - 🔥 进阶学习：<a href="https://interview.poetries.top" target="_blank">前端系统进阶 & 面试指南</a>
+- ✨ 一页纸：<a href="https://resume.poetries.top" target="_blank">一页纸简历 - Markdown 在线简历制作，AI 简历诊断与面试题预测</a>
 - 🌱 干货：公众号『 前端进阶之旅 』
 - 🌈 知乎：<a href="https://www.zhihu.com/people/poetries" target="_blank">@前端进阶之旅</a>
 - 💬 V：coderpoetry
